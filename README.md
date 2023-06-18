@@ -1,5 +1,5 @@
 # Gold-Price-Prediction
-Developed a project using Random Forest Regressor to accurately predict gold prices.
+I have developed a project model using Random Forest Regressor to accurately predict gold price.
 This is an open source project as anayone is free to make contribution to it. #openforcontributors
 
 This contains a comprehensive library of not only the most recent updates. This contains a comprehensive library and models to accurately predict the gold prices using gold datasets. Use any dataset to predict output accurately.
