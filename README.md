@@ -10,5 +10,5 @@ This contains a comprehensive library of not only the most recent updates. This 
 - matplotlib==3.1.3
 - numpy==1.18.1
 - sklearn==0.21.2
-
+#Follow me
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ashmit-singh-832b36202)
